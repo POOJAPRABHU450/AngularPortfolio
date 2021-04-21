@@ -1,0 +1,18 @@
+
+
+.mat-toolbar.mat-primary {
+    background: #007bff;
+    color: #fff;
+    font-size: 25px;
+  }
+
+  .spacer{
+      flex: 1 1 auto;
+  }
+  a:hover{
+    animation-name: text_fadein;
+    animation-duration: 0.3s;
+    animation-fill-mode: forwards;
+  }
+
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
